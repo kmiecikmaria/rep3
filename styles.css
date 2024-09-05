@@ -28,7 +28,7 @@ body {
    
     margin: 10px 0;
     padding: 10px;
-    background-color: #DA70D6;
+    background-color: #3f35d3;
     color: white;
     border: none;
     cursor: pointer;
@@ -36,6 +36,5 @@ body {
     box-sizing: border-box; /* Inclui padding e borda na largura total */
     }
     #alternativas button:hover {
-    background-color: #DA70D63;
+        background-color: #2217bd;
     }
-
