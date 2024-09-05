@@ -25,10 +25,10 @@ body {
     #alternativas button {
     width: 100%; /* Adiciona largura total aos botões */
     display: block;
-   
+    
     margin: 10px 0;
     padding: 10px;
-    background-color: #3f35d3;
+    background-color: #DA70D6;
     color: white;
     border: none;
     cursor: pointer;
@@ -36,5 +36,6 @@ body {
     box-sizing: border-box; /* Inclui padding e borda na largura total */
     }
     #alternativas button:hover {
-        background-color: #2217bd;
+    background-color: #DA70D63;
     }
+
