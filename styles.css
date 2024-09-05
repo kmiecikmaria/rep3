@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #DDA0DD;
+    background-color: #40E0D0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -28,7 +28,7 @@ body {
     
     margin: 10px 0;
     padding: 10px;
-    background-color: #DA70D6;
+    background-color: #20B2AA;
     color: white;
     border: none;
     cursor: pointer;
@@ -36,6 +36,6 @@ body {
     box-sizing: border-box; /* Inclui padding e borda na largura total */
     }
     #alternativas button:hover {
-    background-color: #DA70D63;
+    background-color: #008B8B;
     }
 
